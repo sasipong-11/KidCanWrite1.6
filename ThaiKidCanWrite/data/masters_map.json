@@ -1,0 +1,38 @@
+{
+  "status": "ok",
+  "message": "success",
+  "maps": [
+    {
+      "id": "1",
+      "name": "MindMap#1",
+      "image": "map-1.jpg",
+      "image_preview": "_1.jpg",
+      "code": "M1",
+      "active": "1"
+    },
+    {
+      "id": "2",
+      "name": "MindMap#2",
+      "image": "map-2.jpg",
+      "image_preview": "_2.jpg",
+      "code": "M2",
+      "active": "1"
+    },
+    {
+      "id": "3",
+      "name": "MindMap#3",
+      "image": "map-3.jpg",
+      "image_preview": "_3.jpg",
+      "code": "M3",
+      "active": "1"
+    },
+    {
+      "id": "4",
+      "name": "MindMap#4",
+      "image": "map-4.jpg",
+      "image_preview": "_4.jpg",
+      "code": "M4",
+      "active": "1"
+    }
+  ]
+}
